@@ -15,8 +15,8 @@ This project implements a modified version of the DistilGPT-2 model with nonline
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/distilgpt2-modification.git
-   cd distilgpt2-modification
+   git clone https://github.com/agolsby/DPN-DistilGPT2.git
+   cd DPN-DistilGPT2
    ```
 
 2. Install the required packages:
